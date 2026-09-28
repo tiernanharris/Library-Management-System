@@ -7,7 +7,7 @@ This project was made by utilising Array-Lists, linear searches, selection sort 
 
 **Save and load** -- allows for the number of books, each title and each borrow count to be saved in a txt file which is reloaded on start-up. 
 
-**Popularity Report **-- creates for a copy of the book list and sorts it using selection sort, this allows the original list to not be modified.
+**Popularity Report**-- creates for a copy of the book list and sorts it using selection sort, this allows the original list to not be modified.
 
 **Search** -- uses a case-insensitive linear search to find a book and return its index.
 
